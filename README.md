@@ -1,6 +1,6 @@
 # study_with_me_machine_learning_adventure
 
-# Transformer & Mixture models & Graph
+# Transformer & Mixture models & Graph Neural Network
 
 ## Books
 
