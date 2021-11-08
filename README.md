@@ -8,6 +8,7 @@
 
 ## Transformer
 
+* Reading list: [[link]](https://docs.google.com/document/d/1brahBxCvPghihyLo8XZWmuZnrAWX9Lu9x3_6etmVyUc/edit?fbclid=IwAR1kmRPDRw9X7-b6b7hn8iU24gOMzWD0TcjAIp9vIS1dFauGCiG_RavR6sw)
 1. Original Paper - Attention is All You Need [[paper]](https://arxiv.org/abs/1706.03762)
 2. A Tutorial on Transformer [[link]](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 3. An Illustrative Tutorial on Transformer [[link]](http://jalammar.github.io/illustrated-transformer/)
