@@ -1,4 +1,4 @@
-# study_with_me_machine_learning_adventure
+# study-with-me-machine-learning-adventure
 
 # Transformer & Mixture models & Graph Neural Network
 
