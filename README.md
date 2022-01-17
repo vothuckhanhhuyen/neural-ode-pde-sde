@@ -1,23 +1,15 @@
-# study-with-me-machine-learning-adventure
+# neural ordinary differential equations
 
-# Transformer & Mixture models & Graph Neural Network
+## NeuralODE
 
-## Books
+1. Vanilla NeuralODE [[paper]](https://arxiv.org/abs/1806.07366) [[code]](https://github.com/rtqichen/torchdiffeq)
+2. Augmented NeuralODE [[paper]](https://arxiv.org/abs/1904.01681) [[code]](https://github.com/EmilienDupont/augmented-neural-odes)
+3. Second Order NeuralODE [[paper]](https://arxiv.org/abs/2006.07220) [[paper]](https://github.com/a-norcliffe/sonode)
+4. Heavy Ball NeuralODE [[paper]](https://arxiv.org/abs/2110.04840) [[code]](https://github.com/hedixia/HeavyBallNODE)
 
-1. Bishop - Pattern Recognition And Machine Learning - Springer 2006 [[book]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf?fbclid=IwAR2EK_jzdCpDS88EtJBNLH7vyNaFaTEd0F8xEkMY3AZGeW9xwCGwoKj676A)
 
-## Transformer
+## NeuralODE in Graph
 
-1. Original Paper - Attention is All You Need [[paper]](https://arxiv.org/abs/1706.03762)
-2. A Tutorial on Transformer [[link]](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
-3. An Illustrative Tutorial on Transformer [[link]](http://jalammar.github.io/illustrated-transformer/)
-4. TRANSFORMERS FROM SCRATCH [[link]](http://peterbloem.nl/blog/transformers?fbclid=IwAR1KwV7oqHF-x62B4cGswtWZeyxuz_s4Bg4ttwz5YYrSUhu6gmyh9lZ6d84)
-
-## Graph Neural Network
-
-1. CS224W: Machine Learning with Graphs [[course]](http://web.stanford.edu/class/cs224w/index.html?fbclid=IwAR3ncPUf2tONPkZC1UkFVg8MDCzMvsLNzWl8MBiPBZAzkw_pjDzMj_J20lE#schedule)
-
-## Papers
-
-1. Transformer with a Mixture of Gaussian Keys [[paper]](https://arxiv.org/abs/2110.08678?fbclid=IwAR19AQCzTTEI-Z1CrhuJxm75_5XG03iGm4fRqLm7HaeFLA7F6hWLqumxRXc) [[code]](https://github.com/minhtannguyen/transformer-mgk)
+1. GRAND: Graph Neural Diffusion [[paper]](https://arxiv.org/abs/2106.10934) [[code]](https://github.com/twitter-research/graph-neural-pde)
+2. GRAND++: Graph Neural Diffusion with A Source Term [[paper]](https://openreview.net/forum?id=EMxu-dzvJk)
 
