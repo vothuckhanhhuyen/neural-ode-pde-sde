@@ -4,7 +4,7 @@
 
 1. Vanilla NeuralODE [[paper]](https://arxiv.org/abs/1806.07366) [[code]](https://github.com/rtqichen/torchdiffeq)
 2. Augmented NeuralODE [[paper]](https://arxiv.org/abs/1904.01681) [[code]](https://github.com/EmilienDupont/augmented-neural-odes)
-3. Second Order NeuralODE [[paper]](https://arxiv.org/abs/2006.07220) [[paper]](https://github.com/a-norcliffe/sonode)
+3. Second Order NeuralODE [[paper]](https://arxiv.org/abs/2006.07220) [[code]](https://github.com/a-norcliffe/sonode)
 4. Heavy Ball NeuralODE [[paper]](https://arxiv.org/abs/2110.04840) [[code]](https://github.com/hedixia/HeavyBallNODE)
 
 
